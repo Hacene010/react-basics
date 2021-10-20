@@ -1,0 +1,7 @@
+.gallery {
+  display: flex;
+  flex-flow: row wrap;
+}
+main {
+  width: 66vw;
+}
